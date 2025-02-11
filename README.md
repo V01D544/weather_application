@@ -1,5 +1,5 @@
 # Weather Vibes
-<img width="1680" alt="Screenshot 2023-08-12 at 11 36 38 PM" src="https://github.com/V01D544/weather_application/assets/93920333/f9bdcb0e-8ce8-424e-b0c7-c4ace2c6367b">
+![Sorting Visualizer](weatherVibesImg.png)
 
 ### 'npm start'
 
